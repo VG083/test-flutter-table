@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "1cfb0d8cf1d277a7eb866d9e5899389b",
-"assets/AssetManifest.bin.json": "cd00b8306332cf62a684f7c0c833506e",
-"assets/AssetManifest.json": "3fa7d317be66d60f4c50557c01fc8d2d",
+const RESOURCES = {"assets/AssetManifest.bin": "1959a15da7eb606b029e2a1372745d77",
+"assets/AssetManifest.bin.json": "d2480d765a9dd614bea6cc5b9f38334c",
+"assets/AssetManifest.json": "f931f00c358b499125ab9198f4c5f5e3",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "805bb8e28286578f6718ba23964fa31c",
+"assets/lib/assets/base_atmosphera_manaira.json": "853e1eeb1198ca8e3d2f31381fbb944c",
 "assets/lib/assets/logo_atmosphera_manaira.png": "d558b8470a81d02d2cedc96d381e3110",
 "assets/lib/assets/logo_atmosphera_manaira_1024.png": "c584995c8615a4c9df59465ccc68aa08",
 "assets/lib/assets/logo_atmosphera_manaira_512.png": "63255db5300dc613d1a6dc3743b23914",
@@ -18,7 +19,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "1cfb0d8cf1d277a7eb866d9e5899389b
 "assets/lib/assets/project_cover_compressed.PNG": "af98f8ca526090f6fcc2f3c8fdc6550b",
 "assets/lib/assets/project_details.PNG": "844ac729a96bf84a87c45fa9700a4566",
 "assets/lib/assets/project_details_compressed.PNG": "a2aca7073f549ab60f53070b26209182",
-"assets/NOTICES": "b7f6894004cea12796a9b7826a7c85ab",
+"assets/NOTICES": "95b46c343026a4cf41ed7a0f4a303d6d",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "33b7d9392238c04c131b6ce224e13711",
 "assets/shaders/ink_sparkle.frag": "ecc85a2e95f5e9f53123dcaf8cb9b6ce",
 "canvaskit/canvaskit.js": "728b2d477d9b8c14593d4f9b82b484f3",
@@ -32,14 +33,14 @@ const RESOURCES = {"assets/AssetManifest.bin": "1cfb0d8cf1d277a7eb866d9e5899389b
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "fe5d50cc458a44f189279beabf26c1fa",
+"flutter_bootstrap.js": "d82dc22f05f05c71733ecc66c64fd92b",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
 "index.html": "b2a9af7aedfec7c13d75715b3491734e",
 "/": "b2a9af7aedfec7c13d75715b3491734e",
-"main.dart.js": "1d7e92742fbb37f5570999f751644100",
+"main.dart.js": "7fe50ca4da654a061b252a22be03dd70",
 "manifest.json": "e3c8eea611a9cd37fac66ecdad433b40",
 "version.json": "60f98390412647b7ef6443639ce88b09"};
 // The application shell files that are downloaded before a service worker can
