@@ -3,11 +3,12 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "444cee178c2b10046c03fb6ce5fa10f9",
-"assets/AssetManifest.bin.json": "5add5067d458f87361aac2c2b0134007",
-"assets/AssetManifest.json": "f1fb273adb21630ea07a536df14ec365",
+const RESOURCES = {"assets/AssetManifest.bin": "b9bc42570a2bce2e9f09b9fe355ce5fa",
+"assets/AssetManifest.bin.json": "38bb3d507da7f731d9027060c2c6c7c9",
+"assets/AssetManifest.json": "3c0fcf591bab019fb69809a04d8f0371",
 "assets/FontManifest.json": "dc3d03800ccca4601324923c0b1d6d57",
 "assets/fonts/MaterialIcons-Regular.otf": "9ddfbf577a678e0a0d22a3cf8a65fcde",
+"assets/lib/assets/alba_icone.png": "ee255703beca2b28d1e1fe4e756ce387",
 "assets/lib/assets/alba_logo_branco.png": "5b0e42d8c878b18768a587452d71f4fb",
 "assets/lib/assets/alba_logo_completo_branco.png": "417159b040b0e09ca75e8cb51781b64b",
 "assets/lib/assets/alba_logo_completo_preto.png": "36c4ffe25568ab079fc3ef4058df50f8",
@@ -50,7 +51,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "444cee178c2b10046c03fb6ce5fa10f9
 "canvaskit/skwasm.wasm": "39dd80367a4e71582d234948adc521c0",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "flutter.js": "83d881c1dbb6d6bcd6b42e274605b69c",
-"flutter_bootstrap.js": "fc4076b61229c15ca07b5eafa8cb41cb",
+"flutter_bootstrap.js": "cb5c83095e3035a821dcf56dc21afce8",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
